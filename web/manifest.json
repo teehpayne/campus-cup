@@ -5,7 +5,7 @@
     "display": "standalone",
     "background_color": "#FAF6EF",
     "theme_color": "#51382F",
-    "description": "Coffee pickup ordering for your next study break.",
+    "description": "Coffee ordering app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [

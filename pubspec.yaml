@@ -1,5 +1,5 @@
 name: campus_cup
-description: A small coffee pickup ordering app.
+description: A small coffee ordering app.
 publish_to: none
 version: 1.0.0+1
 
@@ -11,8 +11,6 @@ dependencies:
     sdk: flutter
 
 dev_dependencies:
-  flutter_test:
-    sdk: flutter
   flutter_lints: ^5.0.0
 
 flutter:
